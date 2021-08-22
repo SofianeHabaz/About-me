@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SofianeHabaz
+- 👀 I’m interested in coding in general
+- 🌱 I’m currently learning web developement
+- 💞️ I’m looking to collaborate on flutter projects
+- 📫 How to reach me -> my discord account @sofianehbz#8768
